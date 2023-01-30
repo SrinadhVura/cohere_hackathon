@@ -23,8 +23,8 @@ You can install the dependencies from the `requirements.txt` file in `conda` or 
 * Create Cohere account and get API key
 * Create `.env` file and enter your Cohere's API key & Model ID (see: `.env_example` file)
 * Run the streamlit app by running
-```angular2html
-code here
+```python
+python main.py
 ```
 
 ## Hackathon Links
