@@ -2,6 +2,8 @@
 
 This AI model generates Chinese sentences based on the English keywords and [HSK level](https://www.vu.edu.au/victoria-business-confucius-institute-vbci/chinese-language-tests-competitions/hsk-language-proficiency-tests) keyed-in by the users. Our goal is to help second-language teachers to generate personalized and engaging stories based on the learner's HSK skills level and interesting topics.
 
+Demo App: https://swaption2009-cohere-hackathon-main-v5hb3d.streamlit.app/
+
 ## Description
 
 This project is submitted for [2023 Cohere Hackathon](https://lablab.ai/event/cohere-hackathon). Our team fine-tunes the [Cohere's Generative AI model](https://cohere.ai/) to help second-language teachers around the world create engaging and personalized stories for the learners based on their skills level and interesting topics.
@@ -27,6 +29,6 @@ code here
 
 ## Hackathon Links
 
-* [Streamlit Demo App]()
+* [Streamlit Demo App](https://swaption2009-cohere-hackathon-main-v5hb3d.streamlit.app/)
 * [Cohere Playground - HSK Mandarin Sentence Generator Model](https://dashboard.cohere.ai/playground/generate?model=e9750c02-7c9f-4da1-905c-13aec9c3832a-ft)
 * [Google Slides Presentaion](https://docs.google.com/presentation/d/17C8Vc9eNp9M8YHy9PUnV2qdI0PhjuXhE1iqEcdxeiP4/edit?usp=sharing)
